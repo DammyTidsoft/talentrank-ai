@@ -1,12 +1,67 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🤖 AI-Powered Applicant Selection Tool
 
-# Run and deploy your AI Studio app
+### LSETF x PLP Hackathon Challenge  
+**Empowering Nigeria’s talent with AI-driven recruitment intelligence**
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/17FUq5iQcGYu40Vnec-IHlRTjwWyCip-g
+## 🌍 Overview
+
+This project is an **AI-powered platform** designed to analyze applicant data and recommend top candidates for **LSETF/PLP programs**.  
+The tool processes resumes, cover letters, assessments, and other applicant data to provide **data-driven recommendations** that align with program criteria.
+
+The solution is built to **integrate seamlessly** with LSETF’s upcoming **LMS upskilling platform**, ensuring scalability and adaptability for future use cases across multiple programs.
+
+---
+
+## 🎯 Core Objectives
+
+### 🧠 Data Analysis  
+Process and analyze resumes, cover letters, assessments, and structured data (e.g., skills, experience, education).
+
+### 🧩 Candidate Ranking  
+Use predefined and configurable criteria to rank candidates objectively based on performance and eligibility.
+
+### 🔍 Recommendations  
+Generate a ranked list of top candidates for review, with AI-supported explanations for transparency.
+
+### 🔗 Integration  
+Prepare APIs and data structures for easy integration with **LSETF’s Learning Management System (LMS)** and other external systems.
+
+---
+
+## ⚙️ Requirements
+
+- **Functional prototype** with a user-friendly web interface.  
+- **Scalable architecture** ready for cloud deployment (AWS, Azure, or GCP).  
+- **Data security and privacy compliance** for handling personal data.  
+- **Demonstrated accuracy** using sample or real datasets.
+
+---
+
+## 🧪 Evaluation Criteria
+
+| Category | Description |
+|-----------|-------------|
+| **Algorithm Accuracy** | How effectively the AI model identifies and ranks the best candidates. |
+| **User Experience (UX/UI)** | Clean, intuitive, and accessible design for both admins and reviewers. |
+| **Scalability & Adaptability** | Ability to handle large applicant volumes and evolving requirements. |
+| **Integration Readiness** | Seamless compatibility with the upcoming LSETF LMS ecosystem. |
+
+---
+
+## 🏗️ Tech Stack
+
+- **Frontend:** React.js / Next.js  
+- **Backend:** Python (FastAPI / Flask)  
+- **AI/ML:** scikit-learn, spaCy, or OpenAI Embeddings  
+- **Database:** PostgreSQL / MongoDB  
+- **Deployment:** Docker, Render, or AWS EC2  
+
+---
+
+## 📁 Project Structure
+
 
 ## Run Locally
 
