@@ -1,0 +1,5 @@
+{
+  "name": "TalentRank AI",
+  "description": "TalentRank AI is an intelligent platform to analyze and rank applicant data for the LSETF/PLP Hackathon. It allows uploading applicant data, ranks them based on a weighted scoring algorithm, and provides insights including bias detection.",
+  "requestFramePermissions": []
+}
